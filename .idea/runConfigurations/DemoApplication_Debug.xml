@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DemoApplication (Debug)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+    <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m" />
+    <method v="2">
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

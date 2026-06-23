@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java *)",
+      "Bash(mvn *)",
+      "Bash(mkdir -p F:/workspace/src/main/java/com/example/demo)",
+      "Bash(mkdir -p F:/workspace/src/main/resources)",
+      "Bash(mkdir -p F:/workspace/src/test/java/com/example/demo)",
+      "Bash(curl -s http://localhost:8080/hello)",
+      "Bash(taskkill //F //IM java.exe)"
+    ]
+  }
+}
