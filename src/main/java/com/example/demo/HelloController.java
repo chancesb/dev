@@ -8,6 +8,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
+        System.out.println("2026-10-11");
         return "Hello, Spring Boot!";
     }
 }
